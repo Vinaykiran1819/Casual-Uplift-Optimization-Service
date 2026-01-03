@@ -1,4 +1,4 @@
-# 🚀 Causal Uplift Optimization Service
+# 🚀 Causal Uplift Optimization System
 
 ### *Optimizing Marketing ROI through Causal Inference and AI Agents*
 
