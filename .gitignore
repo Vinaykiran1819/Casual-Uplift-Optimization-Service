@@ -205,3 +205,19 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Environments
+env/
+venv/
+.env
+.venv
+
+# Project Artifacts
+
