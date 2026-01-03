@@ -6,7 +6,7 @@ from src.causal_uplift_service.pipelines.prediction_pipeline import CustomData, 
 # --- PAGE CONFIGURATION ---
 st.set_page_config(page_title="Causal Uplift Service", layout="wide")
 
-st.title("🛍️ Causal Uplift Optimization Service")
+st.title("🛍️ Causal Uplift Service - V2 LIVE")
 st.markdown("""
 **Identify the 'Persuadables'.** This tool predicts the **Uplift Score** (Incremental Probability of Purchase) for a specific customer.  
 * **High Uplift (> 5%):** Target this user! The email will cause them to buy.  
